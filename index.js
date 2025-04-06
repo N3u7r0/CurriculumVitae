@@ -74,7 +74,7 @@ function porfolio() {
   }).then((result) => {
     if (result.isConfirmed) {
       window.location.href =
-        "https://drive.google.com/file/d/1imMbymdUlBSPGRx2_N95kJ2j1rAiuQZg/view?usp=drive_link";
+        "https://n3u7r0.github.io/Brian-Sabatini--Repositorio/";
     }
   });
 }
