@@ -2,7 +2,7 @@ function presentacion() {
   Swal.fire({
     title: "Presentacion",
     html: `
-                    <p class="presentacion">
+                    <p>
                         <strong>Hola!!!</strong>
                         Soy Brian y estoy buscando profundizarme como developer front.<br>
                         Inicie mis pasos de la mano de Coder house cursando el programa de desarrollo web en el cual
