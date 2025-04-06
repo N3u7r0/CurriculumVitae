@@ -8,7 +8,7 @@
 body {
     display: flex;
     justify-content: center;
-    background-image: url("/images/bacgronudbody.jpg");
+    background-image: url("https://github.com/N3u7r0/CurriculumVitae/blob/master/images/bacgronudbody.jpg?raw=true");
     background-position: center;
     background-size: cover;
 
@@ -46,7 +46,7 @@ body {
         /* flex */
         display: flex;
         flex-wrap: wrap;
-        background-image: url("./images/bacgroundHead.jpg");
+        background-image: url("https://github.com/N3u7r0/CurriculumVitae/blob/master/images/bacgroundHead.jpg?raw=true");
         background-size: cover;
         background-position: center;
         justify-content: space-evenly;
@@ -54,7 +54,7 @@ body {
         box-shadow: 0px 1px 5px;
 
         .fotoPerfil {
-            background-image: url("./images/fotoPerfil.jpg");
+            background-image: url("https://github.com/N3u7r0/CurriculumVitae/blob/master/images/fotoPerfil.jpg?raw=true");
             background-size: cover;
             height: 25vh;
             width: 25vh;
