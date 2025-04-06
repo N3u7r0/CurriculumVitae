@@ -330,5 +330,6 @@ body {
         flex-direction: column;
         text-align: left;
         width: 90%;
+        overflow: hidden;
     }
 }
